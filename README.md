@@ -1,3 +1,8 @@
+Youtube Link:
+
+https://youtu.be/s56YG_RnhKQ
+
+
 # Premier League 2019  App
 
 This is a beginner-friendly Streamlit web application
@@ -14,13 +19,3 @@ using the [API-Football](https://www.api-football.com/) API. The app displays ma
 - Randomized Map of Stadium Locations
 - Like Games and see them listed in the sidebar
 - Submit feedback via a text box
-
----
-
-## Setup Instructions:
-
-### 1. **Clone or Download the Project**
-
-```bash
-git clone https://github.com/yourusername/premier-league-streamlit.git
-cd premier-league-streamlit
