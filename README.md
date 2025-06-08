@@ -1,6 +1,6 @@
 # Premier League 2019  App
 
-This is a beginner-friendly Streamlit web application
+This is a Streamlit web application
 that shows Premier League 2019 match data 
 using the [API-Football](https://www.api-football.com/) API. The app displays match results, team standings, player information, and a basic interactive map that shown locations of the premier league teams stadiums.
 
