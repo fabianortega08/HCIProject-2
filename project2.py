@@ -7,7 +7,6 @@ import requests
 import pandas as pd
 from datetime import datetime
 import numpy as np
-import plotly.express as px
 
 #Store liked games
 if "liked_games" not in st.session_state:
